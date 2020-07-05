@@ -1,6 +1,6 @@
 # Samarah TODO list
 
-This is my first flutter project, a TODO list for my wife.
+TODO list for my wife.
 Everything was done according to her wishes.
 
 ## Description
